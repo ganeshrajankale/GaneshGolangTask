@@ -1,0 +1,11 @@
+{
+ "image": {
+  "avif": "https://http.dog/200.avif",
+  "jpg": "https://http.dog/200.jpg",
+  "jxl": "https://http.dog/200.jxl",
+  "webp": "https://http.dog/200.webp"
+ },
+ "status_code": 200,
+ "title": "OK",
+ "url": "https://http.dog/200"
+}
